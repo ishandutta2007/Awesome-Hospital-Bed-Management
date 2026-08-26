@@ -52,155 +52,33 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[TeleTracking](https://www.teletracking.com/)**  
-
-  Hospital operations and patient-flow platform focused on bed management, capacity management, patient placement, environmental services, transport, transfer management, and operational automation. Its Operations IQ platform provides an operational layer over the EMR for capacity planning, patient flow, and discharge workflows. :contentReference[oaicite:0]{index=0}
-
-
-
-- **[LeanTaaS iQueue](https://leantaas.com/)**  
-
-  AI-driven capacity-management platform with iQueue for Inpatient Flow/Beds, providing predictive and prescriptive analytics for bed capacity, admissions, discharges, patient flow, and staffing. :contentReference[oaicite:1]{index=1}
-
-
-
-- **[Central Logic](https://www.centrallogic.com/)**  
-
-  Patient-flow and transfer-center platform focused on managing transfers, referrals, patient placement, capacity visibility, and access to care across health systems.
-
-
-
-- **[Care Logistics](https://carelogistics.com/)**  
-
-  Hospital patient-flow and capacity-management platform providing operational visibility into beds, patient movement, staffing, transport, environmental services, and throughput.
-
-
-
-- **[GE HealthCare Command Center](https://www.gehealthcare.com/)**  
-
-  Command-center technology for hospital operations that aggregates clinical and operational data to provide system-wide visibility into patient flow, capacity, staffing, and resource utilization.
-
-
-
-- **[Qventus](https://www.qventus.com/)**  
-
-  AI-powered hospital operations and patient-flow platform providing discharge planning, capacity intelligence, flow prioritization, and operational recommendations. Its Capacity Intelligence capabilities identify high-impact actions for improving throughput. :contentReference[oaicite:2]{index=2}
-
-
-
-- **[Hospital IQ](https://www.hospiq.com/)**  
-
-  Hospital operations analytics and command-center platform focused on patient flow, capacity management, operational intelligence, and predictive analytics.
-
-
-
-- **[Infor Cloverleaf](https://www.infor.com/solutions/healthcare)**  
-
-  Healthcare interoperability and integration platform from Infor that can support patient-flow and hospital-operational data integration across clinical systems.
-
-
-
-- **[Oracle Health Patient Flow](https://www.oracle.com/health/)**  
-
-  Healthcare technology ecosystem providing capabilities around patient flow, clinical operations, capacity, and hospital resource management.
-
-
-
-- **[Oracle Health Command Center](https://www.oracle.com/health/)**  
-
-  Hospital operational and clinical-data capabilities designed to provide centralized visibility and decision support across healthcare organizations.
-
-
-
-- **[Palantir Foundry for Healthcare](https://www.palantir.com/)**  
-
-  Data and operations platform that can be used to integrate EHR, operational, staffing, capacity, and logistics data for hospital command-center and patient-flow applications.
-
-
-
-- **[Microsoft Cloud for Healthcare](https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare)**  
-
-  Healthcare cloud ecosystem providing data, analytics, interoperability, AI, and workflow infrastructure that can support hospital capacity and patient-flow applications.
-
-
-
-- **[CareAware Patient Flow](https://www.cerner.com/)**  
-
-  Oracle Health/Cerner ecosystem capability supporting patient-flow and operational workflows across hospital environments.
-
-
-
-- **[PerfectServe](https://www.perfectserve.com/)**  
-
-  Healthcare communication and clinical workflow platform that can support patient-flow coordination by connecting care teams, physicians, nurses, and operational staff.
-
-
-
-- **[Medworxx](https://www.medworxx.com/)**  
-
-  Healthcare workflow and patient-flow technology focused on patient placement, bed management, utilization, and hospital capacity.
-
-
-
-- **[TeleTracking Capacity](https://www.teletracking.com/)**  
-
-  Capacity-management capabilities within TeleTracking designed to provide visibility into current and future bed capacity and improve patient placement and throughput.
-
-
-
-- **[TeleTracking Operations IQ](https://www.teletracking.com/)**  
-
-  Operational intelligence layer designed to integrate operational workflows with EMR data and provide enterprise-wide situational awareness for hospital capacity and patient flow. :contentReference[oaicite:3]{index=3}
-
-
-
-- **[GE Command Center](https://www.gehealthcare.com/)**  
-
-  Hospital command-center ecosystem focused on real-time operational visibility, predictive analytics, and coordinated decision-making.
-
-
-
-- **[Infor Patient Flow](https://www.infor.com/solutions/healthcare)**  
-
-  Healthcare workflow capabilities supporting patient-flow, capacity, and operational coordination.
-
-
-
-- **[Epic Patient Flow](https://www.epic.com/)**  
-
-  Epic's hospital information system includes patient-flow and operational capabilities for managing admissions, transfers, discharges, and patient placement.
-
-
-
-- **[Strata Decision Technology](https://www.stratadecision.com/)**  
-
-  Healthcare analytics and decision-support platform that can support capacity planning and operational management.
-
-
-
-- **[Access Patient Flow](https://www.accessexcellence.com/)**  
-
-  Patient-flow and operational technology supporting hospital capacity, discharge, patient placement, and flow coordination.
-
-
-
-- **[Sonitor](https://sonitor.com/)**  
-
-  Real-time location technology that can provide location intelligence for patients, staff, and assets, supporting hospital-flow and operational workflows.
-
-
-
-- **[Stryker](https://www.stryker.com/)**  
-
-  Healthcare technology company with connected hospital solutions and operational technologies that can contribute to patient-flow, asset tracking, and hospital operations.
-
-
-
-- **[LeanTaaS iQueue for Inpatient Flow](https://leantaas.com/products/inpatient-flow/)**  
-
-  Predictive and prescriptive capacity-management solution that continuously monitors patient demand, available beds, staffing needs, and operational bottlenecks. :contentReference[oaicite:4]{index=4}
+| Platform / Product | Primary Focus & Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[TeleTracking](https://www.teletracking.com/)** | Enterprise hospital operations and patient-flow platform covering bed management, capacity management, patient placement, environmental services (EVS), transport, and transfer centers. | From **£100 / bed / month** (~$130 / bed / month; base facility tier from ~$10,000 / month) | No free-forever plan; offers a **30-day proof-of-value pilot** evaluation for 1 target facility. |
+| **[LeanTaaS iQueue](https://leantaas.com/)** | AI-driven capacity-management platform providing predictive and prescriptive analytics for bed capacity, admissions, discharges, patient flow, and staffing optimization. | From **~$9,000 / inpatient bed / year** (entry module baseline from ~$2,500 / month) | No free-forever plan; offers a **30-day proof-of-concept / ROI simulation** pilot using retrospective EHR data. |
+| **[LeanTaaS iQueue for Inpatient Flow](https://leantaas.com/products/inpatient-flow/)** | Predictive capacity-management module continuously monitoring inpatient bed demand, available beds, staffing needs, and operational bottlenecks. | From **~$3,500 / month** (~$42,000 / year base inpatient flow module) | No free-forever plan; offers a **30-day predictive discharge simulation** pilot on unit historical data. |
+| **[Central Logic](https://www.centrallogic.com/)** | Patient-flow and transfer-center platform (symplr) focused on managing inter-facility transfers, referrals, patient placement, and health-system-wide bed visibility. | From **~$2,500 / month** (~$30,000 / year base transfer-routing tier) | No free-forever plan; offers a **30-day guided pilot** evaluation with sample regional transfer data. |
+| **[Care Logistics](https://carelogistics.com/)** | Hospital patient-flow and logistics platform providing operational visibility into beds, patient movement, staffing, transport, and throughput coordination. | From **~$4,000 / month** (~$48,000 / year base logistics coordination tier) | No free-forever plan; offers a **30-day throughput optimization pilot** for 1 hospital site. |
+| **[GE HealthCare Command Center](https://www.gehealthcare.com/)** | Command-center technology aggregating clinical and operational telemetry to provide system-wide visibility into patient flow, capacity, staffing, and bed utilization. | From **~$8,000 / month** (base Tile capacity analytics module; ~$100,000 / year entry suite) | No free-forever plan; offers a **60-day digital twin simulation** proof-of-concept for up to 1 hospital facility. |
+| **[GE Command Center (Tiles)](https://www.gehealthcare.com/)** | Real-time situational awareness tile ecosystem focused on real-time operational visibility, predictive analytics, bed assignments, and coordinated decision-making. | From **~$6,500 / month** (~$78,000 / year base operational tile suite) | No free-forever plan; offers a **45-day virtual sandbox trial** with sample hospital ward data. |
+| **[Qventus](https://www.qventus.com/)** | AI-powered hospital operations and patient-flow platform providing automated discharge planning, capacity intelligence, flow prioritization, and operational recommendations. | From **~$2,500 / month** (~$30,000 / year base operational automation tier) | No free-forever plan; offers a **30-day structured proof-of-value pilot** limited to 1 inpatient unit. |
+| **[Hospital IQ](https://www.hospiq.com/)** | Predictive hospital operations analytics and command-center platform (LeanTaaS) focused on patient flow, capacity management, and predictive bed modeling. | From **~$2,500 / month** (~$30,000 / year entry predictive analytics tier) | No free-forever plan; offers a **30-day capacity forecast pilot** on retrospective census data. |
+| **[Infor Cloverleaf](https://www.infor.com/solutions/healthcare)** | Healthcare interoperability and integration platform supporting patient-flow and hospital-operational data exchange across clinical and bed systems. | From **~$4,600 / month** (~$55,200 / year base integration engine license) | No free-forever plan; offers a **30-day evaluation license** restricted to non-production interface test feeds. |
+| **[Infor Patient Flow](https://www.infor.com/solutions/healthcare)** | Healthcare workflow capabilities supporting patient-flow, bed-turnover tracking, housekeeping, transport, and operational coordination. | From **~$3,500 / month** (~$42,000 / year base patient-flow package) | No free-forever plan; offers a **30-day evaluation trial** for 1 hospital location. |
+| **[Oracle Health Patient Flow](https://www.oracle.com/health/)** | Enterprise healthcare technology ecosystem (Cerner) providing capabilities for patient placement, bed tracking, clinical operations, and hospital resource management. | From **$25 – $50 / user / month** (or ~$5,000 / month baseline hospital unit tier) | No free-forever plan; offers a **30-day sandbox trial** environment with synthetic EHR test data for up to 10 user seats. |
+| **[Oracle Health Command Center](https://www.oracle.com/health/)** | Hospital operational and clinical-data capabilities designed to provide centralized bed visibility and decision support across multi-facility healthcare organizations. | From **~$7,500 / month** (~$90,000 / year base operational command module) | No free-forever plan; offers a **30-day sandbox pilot** with sample multi-facility operational feeds. |
+| **[CareAware Patient Flow](https://www.cerner.com/)** | Oracle Health/Cerner ecosystem capability supporting real-time room readiness, patient-flow, and operational workflows across hospital environments. | From **~$3,500 / month** (~$42,000 / year base CareAware deployment tier) | No free-forever plan; offers a **30-day simulated integration test** environment for up to 5 bed endpoints. |
+| **[Palantir Foundry for Healthcare](https://www.palantir.com/)** | Data ontology and operations platform integrating EHR, staffing, capacity, and bed logistics data for hospital command-center and patient-flow applications. | From **~$41,667 / month** ($500,000 / year entry enterprise tier; compute metered at ~$0.0005 / compute-sec) | No free-forever plan; offers a **30-day enterprise AIP Bootcamp / PoC** with up to 50,000 compute credits for qualified health systems. |
+| **[Microsoft Cloud for Healthcare](https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare)** | Healthcare cloud ecosystem providing FHIR data services, analytics, patient outreach, and workflow infrastructure supporting hospital capacity management. | From **$95 / user / month** (Healthcare Add-On; Azure Health Data Services from $0.0004 / request) | **Free Plan**: Azure Health Bot includes **3,000 messages/month free**; also offers a **30-day trial** for Dynamics 365/Power Apps healthcare templates (25 user seats + $200 Azure credits). |
+| **[PerfectServe](https://www.perfectserve.com/)** | Clinical communication and workflow platform connecting care teams, nurses, and operational staff to accelerate patient placement and discharge coordination. | From **$89 – $119 / on-call user / month** (or ~$400 / month base clinical communication tier) | No free-forever plan; offers a **14-day guided proof-of-concept trial** for up to 15 clinical users. |
+| **[Medworxx](https://www.medworxx.com/)** | Healthcare utilization and patient-flow platform (VitalHub) focused on patient placement appropriateness, bed management, and level-of-care capacity. | From **$1 – $15 / user / month** (or ~$1,500 / month base utilization module tier) | No free-forever plan; offers a **30-day clinical review pilot** evaluation on up to 50 active patient cases. |
+| **[TeleTracking Capacity](https://www.teletracking.com/)** | Capacity-management capabilities within TeleTracking designed to provide real-time visibility into bed capacity and improve patient placement throughput. | From **~$3,000 / month** (~$36,000 / year module add-on tier) | No free-forever plan; offers a **30-day capacity simulation pilot** on 1 pilot unit. |
+| **[TeleTracking Operations IQ](https://www.teletracking.com/)** | Operational intelligence layer integrating operational workflows with EMR data to provide enterprise-wide situational awareness for hospital capacity. | From **~$4,500 / month** (~$54,000 / year base analytics tier) | No free-forever plan; offers a **30-day operational dashboard pilot** evaluation using historical telemetry data. |
+| **[Epic Patient Flow](https://www.epic.com/)** | Epic EHR patient-placement, bed planning (Grand Central), transfer center, and discharge management module. | From **~$1,200 / provider / year** (or Community Connect starting tier from ~$2,000 / bed / year) | No free-forever plan; offers a **30-day UserWeb sandbox / developer test** environment for certified affiliate health systems. |
+| **[Strata Decision Technology](https://www.stratadecision.com/)** | Healthcare financial and operational planning platform (StrataJazz) supporting capacity planning, capital budgeting, and operational resource management. | From **~$3,000 / month** (~$36,000 / year base decision-support tier) | No free-forever plan; offers a **30-day guided decision-support pilot** with pre-loaded benchmark capacity metrics. |
+| **[Access Patient Flow](https://www.accessexcellence.com/)** | Patient-flow and electronic documentation platform eliminating paperwork delays during hospital admissions, transfers, and bed placement. | From **~$1,500 / month** (~$18,000 / year base electronic admission tier) | No free-forever plan; offers a **14-day evaluation trial** limited to 100 digital admission forms. |
+| **[Sonitor](https://sonitor.com/)** | High-definition ultrasound Real-Time Location System (RTLS) providing room-level and bed-level location tracking for patients, beds, and movable medical equipment. | From **~$85 / active RTLS tag / year** (or ~$1,800 / month base sensor infrastructure tier) | No free-forever plan; offers a **30-day hardware/software starter kit trial** limited to 20 RTLS tags and 5 zone receivers. |
+| **[Stryker](https://www.stryker.com/)** | Connected hospital solutions and smart bed ecosystem (ProCuity / iBed Care / Vocera) delivering real-time bed occupancy status, patient exit alarms, and protocol alerts. | From **~$15 / device / month** (or smart bed telemetry connectivity starting at ~$2,500 / bed unit base tier) | No free-forever plan; offers a **30-day connectivity test pilot** for up to 10 connected bed units. |
 
 
 
